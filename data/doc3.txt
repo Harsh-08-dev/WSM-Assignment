@@ -1,0 +1,5 @@
+A graphical user interface allows users to interact with software using visual elements instead of text commands.
+Tkinter is a standard Python library used to build simple and portable desktop applications.
+A minimalistic interface focuses on clarity, showing only the essential search box, button, and results area.
+Good software architecture separates the user interface from the underlying business logic.
+This design makes the application easier to test, maintain, and extend over time.

@@ -1,0 +1,5 @@
+Information retrieval is the process of obtaining relevant information from a large collection of resources.
+An information retrieval system helps a user find documents that satisfy their query.
+Search engines are the most well known example of information retrieval systems in everyday use.
+The core components of a typical system include a document collection, an index, and a ranking mechanism.
+Computer science research on retrieval methods dates back several decades and continues to evolve.

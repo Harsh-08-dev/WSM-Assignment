@@ -1,0 +1,5 @@
+An inverted index is a data structure used by search engines to enable fast full text search.
+The index maps each term in the vocabulary to the set of documents in which that term appears.
+Building an inverted index requires tokenization, normalization, and careful data organization.
+Many modern computation systems rely on efficient indexing to answer queries in real time.
+Wildcard queries such as comput* or *tion allow users to search using partial terms.

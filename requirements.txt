@@ -1,0 +1,10 @@
+# IR_Project dependencies
+#
+# This project intentionally uses only the Python standard library
+# (os, re, string, tkinter, dataclasses, typing, etc.) so there is
+# nothing to install here. This file is kept for completeness and
+# to make future extensions (e.g. stemming, ranking) easy to track.
+#
+# Example future additions (not required to run the app as-is):
+# nltk>=3.8          # for advanced stemming/lemmatization
+# scikit-learn>=1.3  # for TF-IDF / BM25 ranking
